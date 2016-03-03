@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UHacker", "UHacker\UHacker.vcxproj", "{ADDCBCE7-B4C7-4E62-A1DD-213DE99E9114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADDCBCE7-B4C7-4E62-A1DD-213DE99E9114}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ADDCBCE7-B4C7-4E62-A1DD-213DE99E9114}.Debug|Win32.Build.0 = Debug|Win32
+		{ADDCBCE7-B4C7-4E62-A1DD-213DE99E9114}.Release|Win32.ActiveCfg = Release|Win32
+		{ADDCBCE7-B4C7-4E62-A1DD-213DE99E9114}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
